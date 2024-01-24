@@ -1,5 +1,5 @@
 # Import the add function from the module where it is defined
-from math import add  # Replace 'your_module_name' with the actual name of your module
+from Math import add  # Replace 'your_module_name' with the actual name of your module
 
 # Define the test function for the add function
 def test_add():
