@@ -1,4 +1,4 @@
-# Data Science Boot Camp : Road Map
+# Data Science Boot Camp : Road map
 ## Python Basics:  
 Day 1: Datatypes and Strings in Python  
 Day 2: Operations in Python  
